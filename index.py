@@ -6,3 +6,6 @@ print('hello worldsss123')
 print('hello worldsss123')
 print('hello worldsss123')
 
+#whdafagfawkfg
+a = int ()
+b = int (23)
