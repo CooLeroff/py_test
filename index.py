@@ -3,5 +3,9 @@ print('hello world111')
 print('hello worldsss')
 print('hello worldzzzz')
 print('hello worldsss123')
-print('hello worldsss12334')
-print('hello worldsss123456')
+print('hello worldsss123')
+print('hello worldsss123')
+
+#whdafagfawkfg
+a = int ()
+b = int (23)
