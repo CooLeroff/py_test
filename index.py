@@ -5,7 +5,7 @@ print('hello worldzzzz')
 print('hello worldsss123')
 print('hello worldsss123')
 print('hello worldsss123')
-
+print('Nastya vkusnaya!')
 #whdafagfawkfg
 a = int ()
 b = int (23)
