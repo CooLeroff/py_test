@@ -6,6 +6,9 @@ print('hello worldsss123')
 print('hello worldsss123')
 print('hello worldsss123')
 print('Nastya vkusnaya!')
+
+
+print('hello worleeedsss123')
 #whdafagfawkfg
 a = int ()
 b = int (23)
