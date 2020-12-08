@@ -1,16 +1,15 @@
-print('hello world')
-print('hello world111')
-print('hello worldsss')
-print('hello worldzzzz')
-print('hello worldsss123')
-print('hello worldsss123')
-print('hello worldsss123')
-print('Nastya vkusnaya!')
+def update_dictionary(d, key, value):
+    if key in d:
+        d[key].append(value)
+    elif key*2 in d:
+        d[key*2] = d[key].append(value)
+    else:
+        d[key*2] = [value]
 
-print('Gleb Bestolkovy!')
-fwfwfwf
-
-print('hello worleeedsss123')
-#whdafagfawkfg
-a = int ()
-b = int (23)
+d = {}
+print(update_dictionary(d, 1, -1))  # None
+print(d)                            # {2: [-1]}
+update_dictionary(d, 2, -2)
+print(d)                            # {2: [-1, -2]}
+update_dictionary(d, 1, -3)
+print(d)                            # {2: [-1, -2, -3]}
