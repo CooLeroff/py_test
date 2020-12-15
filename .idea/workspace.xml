@@ -25,11 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be666e6-c35e-4a06-b405-846e9111f65c" name="Default Changelist" comment="Stepik">
-      <change afterPath="$PROJECT_DIR$/Func_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slovari2.py" afterDir="false" />
+    <list default="true" id="2be666e6-c35e-4a06-b405-846e9111f65c" name="Default Changelist" comment="Закончили неделю">
+      <change afterPath="$PROJECT_DIR$/IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_3363_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Func_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Func_dict.py" afterDir="false" />
     </list>
     <list id="a8724c53-5125-4eab-913c-ea78c20a63fe" name="Update index.py" comment="Update index.py&#10;&#10;(cherry picked from commit 05393f7011c5fbd0febf087c60a2d243cb7c2a90)">
       <changelist_data name="Gleb Prudinsky" email="glebmm@gmail.com" date="1596916416000" />
@@ -76,11 +77,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Func_dict">
+  <component name="RunManager" selected="Python.IO">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -106,6 +109,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Func_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,6 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IO" />
         <item itemvalue="Python.Func_dict" />
         <item itemvalue="Python.Slovari2" />
         <item itemvalue="Python.index" />
@@ -167,6 +193,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2be666e6-c35e-4a06-b405-846e9111f65c" name="Default Changelist" comment="" />
@@ -175,7 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604441565403</updated>
       <workItem from="1607249565818" duration="336000" />
-      <workItem from="1607249958172" duration="17234000" />
+      <workItem from="1607249958172" duration="36882000" />
     </task>
     <task id="LOCAL-00001" summary="Add files">
       <created>1604441918533</created>
@@ -205,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607253449104</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Закончили неделю">
+      <created>1607428185547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607428185549</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,14 +277,16 @@
     <MESSAGE value="Add Nastya" />
     <MESSAGE value="govno" />
     <MESSAGE value="Stepik" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stepik" />
+    <MESSAGE value="Закончили неделю" />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончили неделю" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/py_test$Func_dict.coverage" NAME="Func_dict Coverage Results" MODIFIED="1607424989192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_test$Func_dict.coverage" NAME="Func_dict Coverage Results" MODIFIED="1608017217852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_test$IO.coverage" NAME="IO Coverage Results" MODIFIED="1608022179696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$index.coverage" NAME="index Coverage Results" MODIFIED="1607331332709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$Slovari2.coverage" NAME="Slovari2 Coverage Results" MODIFIED="1607366118386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
