@@ -25,12 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be666e6-c35e-4a06-b405-846e9111f65c" name="Default Changelist" comment="Закончили неделю">
-      <change afterPath="$PROJECT_DIR$/IO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset_3363_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+    <list default="true" id="2be666e6-c35e-4a06-b405-846e9111f65c" name="Default Changelist" comment="Вввод/вывод решил задачу 1">
+      <change afterPath="$PROJECT_DIR$/IO2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_3363_3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Func_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Func_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_3363_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
     </list>
     <list id="a8724c53-5125-4eab-913c-ea78c20a63fe" name="Update index.py" comment="Update index.py&#10;&#10;(cherry picked from commit 05393f7011c5fbd0febf087c60a2d243cb7c2a90)">
       <changelist_data name="Gleb Prudinsky" email="glebmm@gmail.com" date="1596916416000" />
@@ -83,7 +83,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.IO">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.IO2">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -139,6 +144,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="IO2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IO2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Slovari2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,6 +212,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IO2" />
         <item itemvalue="Python.IO" />
         <item itemvalue="Python.Func_dict" />
         <item itemvalue="Python.Slovari2" />
@@ -204,7 +232,9 @@
       <option name="presentableId" value="Default" />
       <updated>1604441565403</updated>
       <workItem from="1607249565818" duration="336000" />
-      <workItem from="1607249958172" duration="36882000" />
+      <workItem from="1607249958172" duration="40850000" />
+      <workItem from="1608044986339" duration="2854000" />
+      <workItem from="1608116656895" duration="2747000" />
     </task>
     <task id="LOCAL-00001" summary="Add files">
       <created>1604441918533</created>
@@ -241,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607428185549</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Вввод/вывод решил задачу 1">
+      <created>1608022270136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608022270139</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +315,8 @@
     <MESSAGE value="govno" />
     <MESSAGE value="Stepik" />
     <MESSAGE value="Закончили неделю" />
-    <option name="LAST_COMMIT_MESSAGE" value="Закончили неделю" />
+    <MESSAGE value="Вввод/вывод решил задачу 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вввод/вывод решил задачу 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -286,7 +324,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_test$Func_dict.coverage" NAME="Func_dict Coverage Results" MODIFIED="1608017217852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/py_test$IO.coverage" NAME="IO Coverage Results" MODIFIED="1608022179696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_test$IO.coverage" NAME="IO Coverage Results" MODIFIED="1608026367158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_test$IO2.coverage" NAME="IO2 Coverage Results" MODIFIED="1608203071065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$index.coverage" NAME="index Coverage Results" MODIFIED="1607331332709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$Slovari2.coverage" NAME="Slovari2 Coverage Results" MODIFIED="1607366118386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
