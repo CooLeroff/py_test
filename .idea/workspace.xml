@@ -25,12 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be666e6-c35e-4a06-b405-846e9111f65c" name="Default Changelist" comment="Вввод/вывод решил задачу 2">
-      <change afterPath="$PROJECT_DIR$/IO3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset_3363_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
+    <list default="true" id="2be666e6-c35e-4a06-b405-846e9111f65c" name="Default Changelist" comment="Вввод/вывод решил задачу 3">
+      <change afterPath="$PROJECT_DIR$/modules1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_3363_3.txt" beforeDir="false" />
     </list>
     <list id="a8724c53-5125-4eab-913c-ea78c20a63fe" name="Update index.py" comment="Update index.py&#10;&#10;(cherry picked from commit 05393f7011c5fbd0febf087c60a2d243cb7c2a90)">
       <changelist_data name="Gleb Prudinsky" email="glebmm@gmail.com" date="1596916416000" />
@@ -88,7 +85,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.IO3">
+  <component name="RunManager" selected="Python.modules1">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -188,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Slovari2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="modules1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,7 +198,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Slovari2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.modules1" />
         <item itemvalue="Python.IO3" />
         <item itemvalue="Python.IO2" />
         <item itemvalue="Python.IO" />
         <item itemvalue="Python.Func_dict" />
-        <item itemvalue="Python.Slovari2" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +231,7 @@
       <workItem from="1607249565818" duration="336000" />
       <workItem from="1607249958172" duration="40850000" />
       <workItem from="1608044986339" duration="2854000" />
-      <workItem from="1608116656895" duration="8284000" />
+      <workItem from="1608116656895" duration="9380000" />
     </task>
     <task id="LOCAL-00001" summary="Add files">
       <created>1604441918533</created>
@@ -285,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608203316488</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Вввод/вывод решил задачу 3">
+      <created>1608282132029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608282132029</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +328,8 @@
     <MESSAGE value="Закончили неделю" />
     <MESSAGE value="Вввод/вывод решил задачу 1" />
     <MESSAGE value="Вввод/вывод решил задачу 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вввод/вывод решил задачу 2" />
+    <MESSAGE value="Вввод/вывод решил задачу 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вввод/вывод решил задачу 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -332,10 +337,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_test$Func_dict.coverage" NAME="Func_dict Coverage Results" MODIFIED="1608017217852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/py_test$IO3.coverage" NAME="IO3 Coverage Results" MODIFIED="1608279359447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_test$IO3.coverage" NAME="IO3 Coverage Results" MODIFIED="1608283322868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$IO.coverage" NAME="IO Coverage Results" MODIFIED="1608026367158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$IO2.coverage" NAME="IO2 Coverage Results" MODIFIED="1608203650864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$index.coverage" NAME="index Coverage Results" MODIFIED="1607331332709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_test$Slovari2.coverage" NAME="Slovari2 Coverage Results" MODIFIED="1607366118386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_test$modules1.coverage" NAME="modules1 Coverage Results" MODIFIED="1608283384319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
